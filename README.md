@@ -498,8 +498,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 For security researchers and questions:
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/CVE-2026-22200/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/CVE-2026-22200/discussions)
+- **Issues**: [Any Tools Issues](https://www.facebook.com/Rvmiix/))
 
 **Do NOT use this contact for:**
 - Requesting help attacking systems without authorization
