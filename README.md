@@ -166,8 +166,8 @@ Buffer overflow in glibc's iconv() when processing the ISO-2022-CN-EXT character
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CVE-2026-22200.git
-cd CVE-2026-22200
+git clone https://github.com/Clarissss/osTicketFileReadIntoRCE
+cd osTicketFileReadIntoRCE
 
 # Install required packages
 pip install -r requirements.txt
