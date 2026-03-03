@@ -1,0 +1,21 @@
+# CVE-2026-22200 Exploit Requirements
+# Python 3.8+ required
+
+# Core HTTP functionality
+requests>=2.31.0
+urllib3>=2.0.0
+
+# PDF processing and extraction
+PyMuPDF>=1.23.0  # fitz - for PDF parsing and image extraction
+Pillow>=10.0.0    # PIL - for image manipulation
+
+# Binary analysis and exploitation
+pwntools>=4.11.0  # For ELF parsing and payload generation
+
+# Optional but recommended
+python-dotenv>=1.0.0  # For environment variable management
+
+# Development dependencies (optional)
+# black>=23.0.0          # Code formatting
+# flake8>=6.0.0          # Linting
+# pytest>=7.4.0          # Testing
